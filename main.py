@@ -1,8 +1,2 @@
-def main():
-    print("something else")
-    a = 0
-    if a > 0:
-        print("Nothing")
-
-if __name__ in "__main":
-    main()
+print(bin(2))
+print(int("0b01", 2))
